@@ -36,52 +36,52 @@ youtube_username                          :
 features                                  :
 
   - title                                 : React Native
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+    description                           : Native React, Facebook tarafından oluşturulan açık kaynaklı bir mobil uygulama çerçevesidir. Geliştiricilerin yerel platform yetenekleriyle birlikte React'i kullanmalarını sağlayarak Android, iOS ve UWP için uygulamalar geliştirmek için kullanılır
+    fontawesome_icon_name                 : star
     
   - title                                 : ReactJS 
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+    description                           : ReactJS, ya da React.js, kullanıcı arayüzü oluşturmaya yarayan açık kaynak kodlu web uygulama çatısı. Facebook önderliğinde bir geliştirici grubu tarafından geliştirilmekte olan ReactJS, Model-View-Controller prensibine uygun olarak oluşturulmuştur.
+    fontawesome_icon_name                 : star
 
   - title                                 : Redux
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+    description                           : Redux, uygulama durumunu yönetmek için açık kaynaklı bir JavaScript kütüphanesidir. En çok kullanıcı arayüzleri oluşturmak için React veya Angular gibi kütüphanelerle kullanılır. Facebook'un Flux mimarisine benzer şekilde Dan Abramov ve Andrew Clark tarafından geliştirilmiştir.
+    fontawesome_icon_name                 : star
 
   - title                                 : GraphQL
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+    description                           : GraphQL, API'ler için açık kaynaklı bir veri sorgusu ve manipülasyon dili ve mevcut verilerle sorguların yerine getirilmesi için bir çalışma zamanıdır. GraphQL, 2012 yılında halka açılmadan önce 2012 yılında Facebook tarafından dahili olarak geliştirilmiştir.
+    fontawesome_icon_name                 : star
 
-  - title                                 : Apollo
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Apollo Graphql
+    description                           : GraphQL'i ölçekte çalıştırmanız gereken tüm devtol ve bulut hizmetleriyle eski API'lerin yama çalışmasını değiştirmek için tek bir çok yönlü sorgu sistemi.
+    fontawesome_icon_name                 : star
   
   - title                                 : Spring Framework
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : Spring Framework Java ve .NET için geliştirilmiş, açık kaynak olan bir uygulama geliştirme çatısıdır. Spring Framework'ün temel özellikleri harhangi bir Java uygulaması tarafından kullanılabilmektedir. Eklentileri ile birlikte Java Enterprise platform üzerinde web uygulamaları geliştirmek için de kullanılabilir.
     fontawesome_icon_name                 : star
 
   - title                                 : Amazon Web Service
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    description                           : AWS, peşin harcama veya uzun vadeli taahhüt gerekmeksizin düşük, kullandıkça öde fiyatlandırma seçenekleri sunar. Uygun ölçekte küresel bir altyapı oluşturur.
+    fontawesome_icon_name                 : star
 
   - title                                 : Aws Lambda
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+    description                           : AWS Lambda, Amazon tarafından Amazon İnternet Hizmetlerinin bir parçası olarak sağlanan, olaya dayalı, sunucusuz bir bilgi işlem platformudur. Olaylara yanıt olarak kod çalıştıran ve bu kodun gerektirdiği bilgi işlem kaynaklarını otomatik olarak yöneten bir bilgisayar hizmetidir.
+    fontawesome_icon_name                 : star
 
   - title                                 : Amazon DynamoDB
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+    description                           : Dinamo birlikte yüksek oranda kullanılabilir anahtar-değer yapılı bir depolama sistemi veya dağıtılmış bir veri deposu oluşturabilen bir teknikler kümesidir. Her iki veritabanının ve dağıtılmış karma tabloların özelliklerine sahiptir.
+    fontawesome_icon_name                 : star
 
   - title                                 : MongoDB
-    description                           : New Feature Description
-    fontawesome_icon_name                 : Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    description                           : MongoDB Inc. tarafından ölçeklenebilir, doküman tabanlı, C++ ile geliştirilmiş açık kaynak, NoSQL veritabanı uygulamasıdır. MongoDB, verileri JSON tipinde dokümanlarda saklamakatadır, anlamsal alanları dokümandan dokümana değişir ve veri yapısı zaman içinde değiştirilebilir.
+    fontawesome_icon_name                 : star
 
   - title                                 : PostgreSQL
-    description                           : New Feature Description
-    fontawesome_icon_name                 : Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    description                           : PostgreSQL, veritabanları için ilişkisel modeli kullanan ve SQL standart sorgu dilini destekleyen bir veritabanı yönetim sistemidir. PostgreSQL aynı zamanda iyi performans veren, güvenli ve geniş özellikleri olan bir Veri Tabanı Yönetim Sistemi'dir. Hemen hemen tüm UNIX ya da Unix türevi işletim sistemlerinde çalışır.
+    fontawesome_icon_name                 : star
 
   - title                                 : Kubernetes
-    description                           : New Feature Description
-    fontawesome_icon_name                 : Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    description                           : Kubernet'ler, uygulama dağıtımını, ölçeklendirmeyi ve yönetimi otomatikleştirmek için açık kaynaklı bir konteyner düzenleme sistemidir.
+    fontawesome_icon_name                 : star
 
 
 
