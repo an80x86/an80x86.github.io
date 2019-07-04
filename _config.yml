@@ -79,11 +79,6 @@ features                                  :
     description                           : PostgreSQL, veritabanları için ilişkisel modeli kullanan ve SQL standart sorgu dilini destekleyen bir veritabanı yönetim sistemidir. PostgreSQL aynı zamanda iyi performans veren, güvenli ve geniş özellikleri olan bir Veri Tabanı Yönetim Sistemi'dir. Hemen hemen tüm UNIX ya da Unix türevi işletim sistemlerinde çalışır.
     fontawesome_icon_name                 : star
 
-  - title                                 : Kubernetes
-    description                           : Kubernet'ler, uygulama dağıtımını, ölçeklendirmeyi ve yönetimi otomatikleştirmek için açık kaynaklı bir konteyner düzenleme sistemidir.
-    fontawesome_icon_name                 : star
-
-
 
 # Theme Settings
 topbar_color                              : "#000000"
